@@ -1,0 +1,9 @@
+# GAMS scratch and listing files
+*.lst
+*.log
+*.gdx
+225*/
+*.~*
+~$*
+.DS_Store
+__pycache__/
